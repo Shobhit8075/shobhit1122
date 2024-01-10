@@ -1,0 +1,7 @@
+print("enter a string ") 
+a = input()
+print("enter the string you want to remove ")
+a1 = input()
+print("enter the new string which is to replaced")
+a2 = input()
+print ("modififed word is ",a.replace(a1,a2))
